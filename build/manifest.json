@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "URL Extractor",
+  "version": "1.0",
+  "description": "Get the URL of the current page",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "URL Extractor"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "icons": {
+    "16": "favicon.ico",
+    "48": "favicon.ico",
+    "128": "favicon.ico"
+  }
+}
